@@ -1,4 +1,4 @@
-This React Native component provides a way to react just like face book. 
+**This React Native component provides a way to react just like facebook. **
 We have 5 reactions. 
 
 1. Like
@@ -12,10 +12,10 @@ We have 5 reactions.
 Installing is pretty simple:
 
 
-npm install react-native-post-reactions
+**npm install react-native-post-reactions**
 
 
-Example:
+**Example:**
 
 
 import PostReact from 'react-native-post-reactions'
