@@ -1,4 +1,6 @@
 **This React Native component provides a way to react just like facebook. **
+
+
 We have 5 reactions. 
 
 1. Like
@@ -18,19 +20,15 @@ Installing is pretty simple:
 **Example:**
 
 
+```
 import PostReact from 'react-native-post-reactions'
 
 const App = () => {
-
-
     const emojiPressed = (emoji) => {
         console.log(`User reacted with ${emoji}`)
     }
-
    return (
-
          <PostReactView callBack={emojiPressed} />
-
    )
-
 }
+```
