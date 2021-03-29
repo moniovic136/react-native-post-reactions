@@ -1,0 +1,16 @@
+{
+  "name": "react-native-post-reactions",
+  "version": "1.0.0",
+  "description": "This React Native component provides a way to react just like facebook. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "facebook",
+    "reactions",
+    "post-react"
+  ],
+  "author": "moniovic",
+  "license": "ISC"
+}
